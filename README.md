@@ -5,7 +5,7 @@ Minimal pipeline to extract text from PDFs, evaluate with an LLM (OpenAI or D-LL
 ## Project structure
 
 ```
-LLMEvaluatorREER/
+LLMReviewer/
 ├── Code/
 │   ├── run.py                # Batch runner (discovers PDFs, builds prompts, calls model, saves JSON)
 │   ├── evaluate_pdfs.py      # PDF extraction + model call helpers

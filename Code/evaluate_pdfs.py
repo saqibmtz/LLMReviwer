@@ -9,7 +9,6 @@ Single-file minimal evaluator:
 
 Usage: import this file and run the step-by-step examples at bottom (commented).
 """
-#source /Users/saqibmtz/Desktop/LocalProjects/LLMEvaluatorREER/venv/bin/activate python
 
 import os
 import json
